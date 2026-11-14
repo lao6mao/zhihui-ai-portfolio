@@ -1,37 +1,37 @@
 <div align="center">
-  <img src="assets/logo_whale.svg" alt="智汇智能体" width="96">
-  <h1>智汇智能体</h1>
-  <p>让企业知识从文档走向图谱、查询与应用</p>
-  <p><a href="https://q-service.tech/?lang=en">访问网站 ↗</a></p>
-  <p>简体中文 | <a href="README.en.md">English</a></p>
+  <img src="assets/logo_whale.svg" alt="Zhihui AI" width="96">
+  <h1>Zhihui AI</h1>
+  <p>Turn enterprise documents into connected, searchable, reusable knowledge.</p>
+  <p><a href="https://q-service.tech/?lang=en">Visit the website ↗</a></p>
+  <p><a href="README.zh.md">简体中文</a> | English</p>
 </div>
 
-## 项目介绍
+## About
 
-智汇智能体是一款面向企业知识管理与应用的平台，帮助团队把分散在文档中的信息组织成可维护、可查询、可复用的企业知识。
+Zhihui AI is an enterprise knowledge platform that helps teams organize information from documents into knowledge that can be maintained, searched, and reused across business workflows.
 
-## 作品亮点
+## Highlights
 
-- **文档构建知识图谱**：从企业文档抽取实体与关系，形成可浏览的知识网络。
-- **本体管理**：导入、导出并维护本体，为知识图谱提供统一结构。
-- **知识库与图谱联合查询**：通过自然语言检索知识库和图谱，并查看答案依据。
-- **模板写作**：结合知识库内容生成方案、报告等文档，沿用已有模板。
-- **企业级适配**：支持组织用户、知识权限、身份集成及私有化部署方案。
+- **Build knowledge graphs from documents:** Extract entities and relationships to create navigable knowledge networks.
+- **Manage ontologies:** Import, export, and maintain ontologies to give knowledge graphs a consistent structure.
+- **Search knowledge bases and graphs together:** Ask questions in natural language and inspect supporting evidence.
+- **Write with templates:** Use knowledge base content to generate reports and other documents while retaining existing templates.
+- **Enterprise deployment options:** Support for organization users, knowledge permissions, identity integrations, and private deployment.
 
-## 网站页面
+## Website pages
 
-| 页面 | 展示内容 |
+| Page | What it covers |
 | --- | --- |
-| 首页 | 产品定位与四项核心能力概览 |
-| 图谱与本体 | 文档建图、本体管理和知识结构维护 |
-| 联合查询 | 知识库与知识图谱的联合检索 |
-| 模板写作 | 将知识库内容写入 Office 模板 |
-| 企业方案 | 用户、权限、登录集成与部署能力 |
+| Home | Product overview and four core capabilities |
+| Graphs and ontologies | Document-based graph creation, ontology management, and knowledge structure |
+| Unified search | Combined retrieval across knowledge bases and knowledge graphs |
+| Template writing | Add knowledge base content to Office templates |
+| Enterprise solutions | Users, permissions, identity integration, and deployment |
 
-## 访问网站
+## Visit the website
 
-点击页面顶部的“访问网站”进入线上站点。
+Use the **Visit the website** link at the top of this page to explore the live site.
 
 ---
 
-本仓库用于展示网站作品集与导流，不包含网站源码。
+This repository is a portfolio showcase and traffic entry point. It does not contain the website source code.
